@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoyalWalletv2", "LoyalWalletv2\LoyalWalletv2.csproj", "{7736AD53-3734-4ECE-AA24-0756FAEC2497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoyalWalletV2.Tests", "LoyalWalletV2.Tests\LoyalWalletV2.Tests.csproj", "{07466520-E01B-4992-9A8D-39E00D2805B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7736AD53-3734-4ECE-AA24-0756FAEC2497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7736AD53-3734-4ECE-AA24-0756FAEC2497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7736AD53-3734-4ECE-AA24-0756FAEC2497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7736AD53-3734-4ECE-AA24-0756FAEC2497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07466520-E01B-4992-9A8D-39E00D2805B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07466520-E01B-4992-9A8D-39E00D2805B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07466520-E01B-4992-9A8D-39E00D2805B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07466520-E01B-4992-9A8D-39E00D2805B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

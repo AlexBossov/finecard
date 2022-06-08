@@ -1,0 +1,36 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\6.0.0\ref\net6.0\Microsoft.AspNetCore.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\behap\RiderProjects\LoyalWalletv2\LoyalWalletV2.Tests\bin\Debug\net6.0\LoyalWalletv2.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17bcb2eb_002Db7b7_002D4485_002D87fe_002Db702af95fcb2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateTemplate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.CreateTemplate&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.DeleteTemplate&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.Push&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.AddCustomer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.ApiTests.CodeGenerate&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.ApiTests.CheckCode&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.ApiTests.ScanCard&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=18f9fa5b_002D1745_002D415e_002Db96f_002Dda603c232652/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.AddSixStamps_AndTakeOnePresent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.ApiTests.AddNewCustomer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.AddOneStamp&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.ApiTests.AddLocation_AddEmployee&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.TokenOsmi&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.ApiTests.AllPresentsCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.ApiTests.AllStampCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.CreateTemplate&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e6366d1_002D4da7_002D4ac4_002Da621_002D9e33475ed9e5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddOneStamp" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.AddOneStamp&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.AddSixStamps_AndTakeOnePresent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.ApiTests.AddLocation_AddEmployee&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::07466520-E01B-4992-9A8D-39E00D2805B5::net6.0::LoyalWalletV2.Tests.DomainTests.CreateTemplate&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
